@@ -4,3 +4,5 @@ Here, I implement practical and novel extensions to the BLP model. BLP model is 
 ## 1. Extension 1. 
 
 $U_{ij} = \alpha p_j + \gamma b_j + \varepsilon_j + \epsilon_{ij}$
+
+$\epsilon_{ij}=\eta_{ig} + (1 - \sigma_g) \v_{ij}$
