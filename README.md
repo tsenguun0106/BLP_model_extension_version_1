@@ -17,6 +17,8 @@ $s_{j/g} = \frac{\exp \Big( \frac{ \alpha p_j + \gamma b_j + \varepsilon_j }{1-\
 
 $\frac{\alpha}{1 - \sigma_g} p_k ( 1 - ( 1 - \sigma_g ) s_k - \sigma_g s_{k/g} )$ if $j = k$ and $j, k \in g$
 
+$\frac{\alpha}{1 - \sigma_g} p_k ( ( 1 - \sigma_g ) s_k + \sigma_g s_{k/g} )$ if $j \neq k$ and $j, k \in g$
+
 
 
 ### Price elasticity $\eta_{jk}$:
