@@ -16,6 +16,7 @@ $s_g = \frac{\exp(I_g)}{\exp(I)}$
 $s_{j/g} = \frac{\exp \Big( \frac{ \alpha p_j + \gamma b_j + \varepsilon_j }{1-\sigma_g} \Big) }{\exp \Big( \frac{I_g}{1 - \sigma_g} \Big)}$
 
 
+### Price elasticity \eta_{jk}:
 
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
