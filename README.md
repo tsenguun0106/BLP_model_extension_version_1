@@ -11,6 +11,11 @@ $I_g = (1- \sigma_g) \ln \Big( \sum_{j \in J_g} \Big( \frac{ \alpha p_j + \gamma
 
 $I = \ln \\sum_{g \in G} \exp ( I_g )$
 
+$s_g = \frac{\exp(I_g)}{\exp(I)}$
+
+$s_{j/g} = \frac{\exp( \Big( \frac{ \alpha p_j + \gamma b_j + \varepsilon_j }{1-\sigma_g} \Big) )}{\exp( \frac{I_g}{1 - \sigma_g} )}$
+
+
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
 
