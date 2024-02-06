@@ -9,7 +9,7 @@ $\epsilon_{ij}=\zeta_{ig} + (1 - \sigma_g) \upsilon_{ij}$
 
 $I_g = (1- \sigma_g) \ln \Big( \sum_{j \in J_g} \Big( \frac{ \alpha p_j + \gamma b_j + \varepsilon_j }{1-\sigma_g} \Big) \Big) $
 
-$I = \ln \\sum_{g=1}^G \exp ( I_g )$
+$I = \ln \\sum_{g \in G} \exp ( I_g )$
 
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
