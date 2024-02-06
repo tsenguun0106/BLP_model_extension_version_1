@@ -15,13 +15,16 @@ $s_g = \frac{\exp(I_g)}{\exp(I)}$
 
 $s_{j/g} = \frac{\exp \Big( \frac{ \alpha p_j + \gamma b_j + \varepsilon_j }{1-\sigma_g} \Big) }{\exp \Big( \frac{I_g}{1 - \sigma_g} \Big)}$
 
+
+### Price elasticity $\eta_{jk}$:
+
 $\frac{\alpha}{1 - \sigma_g} p_k ( 1 - ( 1 - \sigma_g ) s_k - \sigma_g s_{k/g} )$ if $j = k$ and $j, k \in g$
 
 $\frac{-\alpha}{1 - \sigma_g} p_k ( ( 1 - \sigma_g ) s_k + \sigma_g s_{k/g} )$ if $j \neq k$ and $j, k \in g$
 
 $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 
-### Price elasticity $\eta_{jk}$:
+
 
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
