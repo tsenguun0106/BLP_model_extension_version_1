@@ -40,9 +40,6 @@ Equation 2: $\frac{-\alpha}{1 - \sigma_g} p_k ( ( 1 - \sigma_g ) s_k + \sigma_g 
 Equation 3: $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 
 
-## Extension idea: 
-
-
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
 
@@ -59,5 +56,9 @@ Equation 3: $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 ### Product from the segment with a high competitiveness degree (cross-price elasticity): 
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/0b416d29-0640-4556-be59-d617ef743e3a" width="450px">
+
+
+## Extension idea: 
+
 
 
