@@ -1,7 +1,7 @@
 # BLP_model_extension_version_1
 Here, I implement practical and novel extensions to the BLP model. BLP model is very popular in Econometrics. However, it is not used widely in industry due to some limitations regarding this model. In this repo, I will implement some novel and practical extensions to the original BLP model. 
 
-## 1. Extension idea: 
+## Core methodology
 
 $U_{ij} = \alpha p_j + \gamma b_j + \varepsilon_j + \epsilon_{ij}$
 
@@ -24,6 +24,8 @@ $\frac{-\alpha}{1 - \sigma_g} p_k ( ( 1 - \sigma_g ) s_k + \sigma_g s_{k/g} )$ i
 
 $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 
+
+## Extension idea: 
 
 
 
