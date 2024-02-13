@@ -29,21 +29,18 @@ $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
 
-![image](https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/f1834e0c-126c-4426-8a85-de53cb16549d)
-
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/f1834e0c-126c-4426-8a85-de53cb16549d" width="350px">
 
 ### Product from the segment with a high competitiveness degree (cross-price elasticity): 
 
-![image](https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/5cfe956b-1653-444e-b434-babf9d5d1916)
-
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/5cfe956b-1653-444e-b434-babf9d5d1916" width="350px">
 
 ### Product from the segment with a low competitiveness degree (cross-price elasticity): 
 
-![image](https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/36b1934d-4c2d-4021-bad5-98fd341218dc)
-
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/36b1934d-4c2d-4021-bad5-98fd341218dc" width="350px">
 
 ### Product from the segment with a high competitiveness degree (cross-price elasticity): 
 
-![image](https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/0b416d29-0640-4556-be59-d617ef743e3a)
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/0b416d29-0640-4556-be59-d617ef743e3a" width="350px">
 
 
