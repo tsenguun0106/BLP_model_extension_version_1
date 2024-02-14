@@ -54,7 +54,7 @@ From the above equations, we can see that the product group competitiveness para
 
 ### Product from the segment with a high competitiveness degree (self-price elasticity): 
 
-The following graph indicates how the self-price elasticity looks when the product group competitiveness parameter $\sigma_g$ is large or close to 1. When the price value is low, the self-price elasticity will be near flat. 
+The following graph indicates how the self-price elasticity looks when the product group competitiveness parameter $\sigma_g$ is large or close to 1. When the price value is low, the self-price elasticity will be near flat and close to 0. What does it mean? Essentially it means that when a certain product's price is relatively lower compared with the prices of other products in the same product group, this product will not lose much share even if you increase its prices slightly. However, once the price of this product reaches the certain point (closer to the average of prices of products in the same product group), the self-price elasticity becomes very steep. This means that it is losing its comparative price advantage over other products in the same product group. And even if you increase its price by a small amount, this product can lose a lot of share to other products in the same product group. 
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/5cfe956b-1653-444e-b434-babf9d5d1916" width="450px">
 
