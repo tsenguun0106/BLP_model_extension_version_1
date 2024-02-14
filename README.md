@@ -73,5 +73,11 @@ The following graph illustrates the cross-price elasticity magnitude when the pr
 
 ## Extension idea: 
 
+1. Product clustering
+
+2. Heterogenous price effect across product groups
+
+3. Heterogenous product group's competitiveness degree $\sigma_g$
+
 
 
