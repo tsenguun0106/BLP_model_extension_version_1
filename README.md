@@ -35,11 +35,16 @@ Here, $s_j$ illustrates the market share of product $j$.
 
 Equation 1: $\frac{\alpha}{1 - \sigma_g} p_k ( 1 - ( 1 - \sigma_g ) s_k - \sigma_g s_{k/g} )$ if $j = k$ and $j, k \in g$
 
+Equation 1 demonstrates the self-price elasticity of product $j$. When $\alpha$ is larger, the self-price elasticity magnitude will be bigger. 
+
 Equation 2: $\frac{-\alpha}{1 - \sigma_g} p_k ( ( 1 - \sigma_g ) s_k + \sigma_g s_{k/g} )$ if $j \neq k$ and $j, k \in g$
+
+Equation 2 expresses the cross-price elasticity within the same product group. 
+Since $s_{k/g}$ is greater than $s_k$, the larger the value of $\sigma_g$, the greater the magnitude of cross-price elasticity within the same product group. 
 
 Equation 3: $-\alpha p_k s_k$ if $j \neq k$, $j \in g, k \in h$, and $g \neq h$
 
-
+Equation 3 indicates the cross-price elasticity between products from different product groups. 
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
 
