@@ -48,13 +48,19 @@ Equation 3 indicates the cross-price elasticity between products from different 
 
 ### Product from the segment with a low competitiveness degree (self-price elasticity): 
 
+From the above equations, we can see that the product group competitiveness parameter $\sigma_g$ is critical for determining the magnitude of price elasticity. In the below graph, we can observe that when $\sigma_g$ is lower or closer to 0, the self-price elasticity is near-linear. 
+
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/f1834e0c-126c-4426-8a85-de53cb16549d" width="450px">
 
-### Product from the segment with a high competitiveness degree (cross-price elasticity): 
+### Product from the segment with a high competitiveness degree (self-price elasticity): 
+
+The following graph indicates how the self-price elasticity looks when the product group competitiveness parameter $\sigma_g$ is large or close to 1. When the price value is low, the self-price elasticity will be near flat. 
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/5cfe956b-1653-444e-b434-babf9d5d1916" width="450px">
 
 ### Product from the segment with a low competitiveness degree (cross-price elasticity): 
+
+
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/36b1934d-4c2d-4021-bad5-98fd341218dc" width="450px">
 
