@@ -75,9 +75,7 @@ The following graph illustrates the cross-price elasticity magnitude when the pr
 
 1. Product clustering
 We can create product clusters or product groups based on its fundamental attributes like taste profile, packaging info, price range, branding investment, etc. The below graph indicates one example or product clustering based on its attributes. 
-
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/00b89e26-d334-4736-b518-d1239004bf12" width="450px">
-
 These product clusters or groups based on the machine learning methodology can be used to define the product groups in the BLP model. Hence, we would not need to depend on categorical variables to specify the product groups in the BLP application. In some cases, these ML model-based clusters or product groups can capture the true product similarities better and could help us to find more meaningful price and cannibalization effects. 
 
 2. Heterogenous price effect across product groups
