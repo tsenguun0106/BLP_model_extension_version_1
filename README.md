@@ -74,15 +74,16 @@ The following graph illustrates the cross-price elasticity magnitude when the pr
 ## Extension idea: 
 
 1. Product clustering
-We can create product clusters or product groups based on its fundamental attributes like taste profile, packaging info, price range, branding investment, etc. The below graph indicates one example or product clustering based on its attributes. 
-<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/00b89e26-d334-4736-b518-d1239004bf12" width="450px">
+We can create product clusters or product groups based on its fundamental attributes like taste profile, packaging info, price range, branding investment, etc. The below graph indicates one example or product clustering based on its attributes.
 These product clusters or groups based on the machine learning methodology can be used to define the product groups in the BLP model. Hence, we would not need to depend on categorical variables to specify the product groups in the BLP application. In some cases, these ML model-based clusters or product groups can capture the true product similarities better and could help us to find more meaningful price and cannibalization effects. 
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/00b89e26-d334-4736-b518-d1239004bf12" width="450px">
 
-2. Heterogenous price effect across product groups
+
+3. Heterogenous price effect across product groups
 The original BLP model assumes one homogeneous price elasticity across different product groups. However. here I introduce the heterogeneous price elasticity across different product groups. This extension can model the true data-generating process more realistically since in reality, different product groups can have different price elasticities. 
 How I estimate this heterogeneity in price elasticity by interacting the product group-specific dummy variable with the instrument variables for the endogenous price variable. The main assumptions will be that the instrument variables should vary sufficiently for the specific product group and the price variable for the specific product group should have enough variation in its movements. 
 
-3. Heterogenous product group's competitiveness degree $\sigma_g$
+4. Heterogenous product group's competitiveness degree $\sigma_g$
 Moreover, the original BLP model assumes one homogeneous competitiveness degree parameter across different product groups even though in the real world, each product group can have different levels of competitiveness degree. I also estimate this heterogeneity by interacting the product group-specific dummy variable with the nest size variable (the instrument variable for estimating the competitiveness degree parameter). The competitiveness degree parameter truly captures how competitive products are against each other in the specific product group. By estimating this heterogeneous competitiveness degree parameter, we can evaluate the price cross-elasticity and cannibalization effect more realistically. 
 
 ## Estimation example on the simulated data
