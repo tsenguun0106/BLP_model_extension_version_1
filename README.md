@@ -111,7 +111,7 @@ Here, I simulated the synthetic data where:
 - The true competitiveness degree parameter for group 9 is 0.9 (estimated value is 0.9120).
 
 
-<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/73663aeb-d7c4-40ab-93a5-565e35d31261" width="350px">
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/73663aeb-d7c4-40ab-93a5-565e35d31261" width="300px">
 
 We can see that all true parameters were estimated very accurately with the suggested estimation methodology. 
 
