@@ -120,6 +120,6 @@ Here, I simulated the synthetic data where:
 
 # Conclusion
 
-Here, I briefly introduced a few important extensions to the original BLP model and how these extensions can be estimated effectively. These extensions can have a truly tremendous impact in the real industry application and can help the business to strategize its pricing and product portfolio decisions efficiently. 
+Here, I briefly introduced a few important extensions to the original BLP model and how these extensions can be estimated effectively. These extensions can have truly tremendous impacts on the real industry application and can help the business to strategize its pricing and product portfolio decisions efficiently. 
 
 
