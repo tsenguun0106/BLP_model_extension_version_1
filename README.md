@@ -105,7 +105,7 @@ Here, I simulated the synthetic data where:
 - The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
 
 
-<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/0b416d29-0640-4556-be59-d617ef743e3a" width="450px">
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/73663aeb-d7c4-40ab-93a5-565e35d31261" width="450px">
 
 
 # Conclusion
