@@ -54,7 +54,7 @@ From the above equations, we can see that the product group competitiveness para
 
 ### Product from the segment with a high competitiveness degree (self-price elasticity): 
 
-The following graph indicates how the self-price elasticity looks when the product group competitiveness parameter $\sigma_g$ is large or close to 1. When the price value is low, the self-price elasticity will be near flat and close to 0. What does it mean? Essentially it means that when a certain product's price is relatively lower compared with the prices of other products in the same product group, this product will not lose much share even if you increase its prices slightly. However, once the price of this product reaches the certain point (closer to the average of prices of products in the same product group), the self-price elasticity becomes very steep. This means that it is losing its comparative price advantage over other products in the same product group. And even if you increase its price by a small amount, this product can lose a lot of share to other products in the same product group. 
+The following graph indicates how the self-price elasticity looks when the product group competitiveness parameter $\sigma_g$ is large or close to 1. When the price value is low, the self-price elasticity will be near flat and close to 0. What does it mean? Essentially it means that when a certain product's price is relatively lower compared with the prices of other products in the same product group, this product will not lose much share even if you increase its prices slightly. However, once the price of this product reaches a certain point (closer to the average of prices of products in the same product group), the self-price elasticity becomes very steep. This means that it is losing its comparative price advantage over other products in the same product group. And even if you increase its price by a small amount, this product can lose a lot of share to other products in the same product group. 
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/5cfe956b-1653-444e-b434-babf9d5d1916" width="450px">
 
@@ -75,9 +75,41 @@ The following graph illustrates the cross-price elasticity magnitude when the pr
 
 1. Product clustering
 
+We can create product clusters or product groups based on its fundamental attributes like taste profile, packaging info, price range, branding investment, etc. The below graph indicates one example or product clustering based on its attributes. 
+
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/00b89e26-d334-4736-b518-d1239004bf12" width="450px">
+
+These product clusters or groups based on the machine learning methodology can be used to define the product groups in the BLP model. Hence, we would not need to depend on categorical variables to specify the product groups in the BLP application. In some cases, these ML model-based clusters or product groups can capture the true product similarities better and could help us to find more meaningful price and cannibalization effects. 
+
 2. Heterogenous price effect across product groups
+
+The original BLP model assumes one homogeneous price elasticity across different product groups. However. here I introduce the heterogeneous price elasticity across different product groups. This extension can model the true data-generating process more realistically since in reality, different product groups can have different price elasticities. 
+How I estimate this heterogeneity in price elasticity by interacting the product group-specific dummy variable with the instrument variables for the endogenous price variable. The main assumptions will be that the instrument variables should vary sufficiently for the specific product group and the price variable for the specific product group should have enough variation in its movements. 
 
 3. Heterogenous product group's competitiveness degree $\sigma_g$
 
+Moreover, the original BLP model assumes one homogeneous competitiveness degree parameter across different product groups even though in the real world, each product group can have different levels of competitiveness degree. I also estimate this heterogeneity by interacting the product group-specific dummy variable with the nest size variable (the instrument variable for estimating the competitiveness degree parameter). The competitiveness degree parameter truly captures how competitive products are against each other in the specific product group. By estimating this heterogeneous competitiveness degree parameter, we can evaluate the price cross-elasticity and cannibalization effect more realistically. 
+
+## Estimation example on the simulated data
+
+Here, I simulated the synthetic data where:
+
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+
+
+<img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/0b416d29-0640-4556-be59-d617ef743e3a" width="450px">
+
+
+# Conclusion
+
+Here, I briefly introduced a few important extensions to the original BLP model and how these extensions can be estimated effectively. These extensions can have a truly tremendous impact in the real industry application and can help the business to strategize its pricing and product portfolio decisions efficiently. 
 
 
