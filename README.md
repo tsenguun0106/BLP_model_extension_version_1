@@ -94,15 +94,25 @@ Moreover, the original BLP model assumes one homogeneous competitiveness degree 
 
 Here, I simulated the synthetic data where:
 
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
-- The price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The true price effect parameter for product group 1 is -2.0 (estimated value is -1.9957).
+- The true price effect parameter for product group 2 is -1.85 (estimated value is -1.8339).
+- The true price effect parameter for product group 3 is -1.7 (estimated value is -1.6994).
+- The true price effect parameter for product group 4 is -1.55 (estimated value is -1.5474).
+- The true price effect parameter for product group 5 is -1.4 (estimated value is -1.4096).
+- The true price effect parameter for product group 6 is -1.25 (estimated value is -1.2613).
+- The true price effect parameter for product group 7 is -1.1 (estimated value is -1.0742).
+- The true price effect parameter for product group 8 is -0.95 (estimated value is -0.9220).
+- The true price effect parameter for product group 9 is -0.8 (estimated value is -0.7105).
+
+- The true competitiveness degree parameter for group 1 is 0.1 (estimated value is 0.1009).
+- The true competitiveness degree parameter for group 2 is 0.2 (estimated value is 0.2035).
+- The true competitiveness degree parameter for group 3 is 0.3 (estimated value is 0.3003).
+- The true competitiveness degree parameter for group 4 is 0.4 (estimated value is 0.4006).
+- The true competitiveness degree parameter for group 5 is 0.5 (estimated value is 0.4980).
+- The true competitiveness degree parameter for group 6 is 0.6 (estimated value is 0.5980).
+- The true competitiveness degree parameter for group 7 is 0.7 (estimated value is 0.7054).
+- The true competitiveness degree parameter for group 8 is 0.8 (estimated value is 0.8053).
+- The true competitiveness degree parameter for group 9 is 0.9 (estimated value is 0.9120).
 
 
 <img src="https://github.com/tsenguun0106/BLP_model_extension_version_1/assets/60633314/73663aeb-d7c4-40ab-93a5-565e35d31261" width="450px">
